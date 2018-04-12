@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # we will work to see if we can play fizzbuzz
 
-for num in range (1,inf):
+for num in range (1,100):
     if num % 3 == 0  and num % 5 == 0:
            print ('fizzbuzz')
     elif num % 3 == 0:
